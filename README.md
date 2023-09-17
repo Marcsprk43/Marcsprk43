@@ -23,3 +23,7 @@ High School:
 College:
 
 TBD (definitely doing competitive programming and the MedTech Hackathon though!)
+
+Side Project:
+
+I love the 3D printer that I built! Here's it's config file: [Link](https://github.com/Marcsprk43/AnetA8_BBTV13)
