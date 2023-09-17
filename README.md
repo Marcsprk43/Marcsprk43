@@ -17,7 +17,7 @@ High School:
 9th + 10th grade: Optical Flow Robotic Vision System: LINK
 - Top award: ISEF award (Internation Science and Engineering Fair)
 
-11th grade: Athegia: A medical device platform: [Frontend](https://github.com/Marcsprk43/athegia-frontend) [Backend](https://github.com/Marcsprk43/athegia-server)
+11th grade: Athegia: A medical device platform: [Frontend](https://github.com/Marcsprk43/athegia-frontend) and [Backend](https://github.com/Marcsprk43/athegia-server)
 - Top award: Second place at National Invention Convention (So close, again!)
 
 College:
