@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Marcsprk43
-- 👀 I’m interested in IoT hacking and medical device IoT
+- 👀 I’m interested in robotics, hacking, and medical devices
 - 🌱 I’m currently learning Angular/WebDev in general
 - 💞️ I’m looking to collaborate on anything involving robotics or medtech
 - 📫 How to reach me marcfvanzyl@gmail.com
