@@ -14,7 +14,7 @@ High School:
 8th grade: IoT Spirometer: [Link](https://github.com/Marcsprk43/IoTSpirometer-GCP)
 - Top award: Second place at National Invention Convention (So close!)
 
-9th + 10th grade: Optical Flow Robotic Vision System: LINK
+9th + 10th grade: Optical Flow Robotic Vision System: [Link](https://github.com/Marcsprk43/OpticalFlow)
 - Top award: ISEF award (Internation Science and Engineering Fair)
 
 11th grade: Athegia: A medical device platform: [Frontend](https://github.com/Marcsprk43/athegia-frontend) and [Backend](https://github.com/Marcsprk43/athegia-server)
