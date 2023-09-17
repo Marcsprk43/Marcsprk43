@@ -11,7 +11,7 @@ High School:
 7th grade: Automatic Magnivision: LINK
 - Top award: Best in category National Invention Convention
 
-8th grade: IoT Spirometer: LINK
+8th grade: IoT Spirometer: [Link](https://github.com/Marcsprk43/IoTSpirometer-GCP)
 - Top award: Second place at National Invention Convention (So close!)
 
 9th + 10th grade: Optical Flow Robotic Vision System: LINK
